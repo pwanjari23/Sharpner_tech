@@ -127,3 +127,8 @@
 
 // console.log(removeSpecific([1, 2, 3, 4, 5, 6], 5))
 
+// 11. Write a function to find the index of a specific element in an array.
+// 12. Write a function to find the frequency of each element in an array. 
+// 13. Write a function to find the second largest element in an array.
+// 14. Write a function to find the second smallest element in an array.
+// 15. Write a function to find the union of two arrays.
